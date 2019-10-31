@@ -1,5 +1,6 @@
 # data files that are too big to be tracked
 temp-runoff.nc
+*.joblib
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
